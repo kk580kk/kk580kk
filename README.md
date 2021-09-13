@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-<!--
-**kk580kk/kk580kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=kk580kk&show_icons=true&hide_title=true&theme=radical" />
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### “What is now proved was once only imagined.”- William Blake
